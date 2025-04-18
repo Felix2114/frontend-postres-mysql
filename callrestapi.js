@@ -2,6 +2,7 @@ var url = "https://mysql-api-postres.onrender.com/api/postres";
 //var url = "http://localhost:8080/api/postres";
 function postPostre() {
 
+
     console.log(url);
 
     var myNombre = $('#nombre').val();
